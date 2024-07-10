@@ -2,27 +2,21 @@
 
 **Sobre mim:**
 
-  Sou um **analista de dados apaixonado por transformar dados em insights acionáveis**. Com uma **jornada profissional diversa**, abrangendo desde **engenharia** e **finanças** até **empreendedorismo** e **análise de dados**, desenvolvi um conjunto de habilidades únicas que me permitem **abordar problemas complexos com criatividade e efetividade**.
+  Com experiência em diversos setores, domino a arte de transformar dados brutos em insights acionáveis que impulsionam resultados. Minha jornada profissional me permitiu desenvolver um conjunto de habilidades únicas que combinam criatividade, efetividade e paixão por dados.
 
 **Minhas habilidades:**
 
-* **Domínio de linguagens de programação:** Python, SQL
-* **Experiência com bibliotecas de análise de dados:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-* **Conhecimento em Machine Learning:** Aprendizado supervisionado e não supervisionado, AutoML
-* **Experiência em Data Cleaning, Data Wrangling e Data Storytelling**
+* **Domínio de linguagens de programação:** Python (3+ anos de experiência), SQL
 * **Familiaridade com processos e metodologias ágeis:** CRISP-DM, SCRUM
 * **Habilidades interpessoais excepcionais:** Comunicação clara, trabalho em equipe e colaboração
 * **Aprendizado contínuo:** Autodidata e sempre buscando novas oportunidades de aprimoramento
-
-**Minhas realizações:**
-
-* **Trabalhei como analista de investimentos na Vivaz Investimentos, uma empresa credenciada à XP.**
-* **Fundei e administrei a CLIM, uma empresa de limpeza em Uberaba-MG.**
-* **Concluí a formação em Ciência de Dados pela Escola DNC.**
+* **Bibliotecas de análise de dados:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Spark
+* **Conhecimento em Machine Learning:** Aprendizado supervisionado e não supervisionado, AutoML
+* **Experiência em Data Cleaning, Data Wrangling e Data Storytelling**
 
 **O que estou buscando:**
 
-Atualmente, estou buscando **oportunidades desafiadoras na área de análise de dados** onde eu possa utilizar minhas habilidades e conhecimentos para **agregar valor a empresas e organizações**. Acredito que minha **versatilidade, meu entusiasmo e minha capacidade de aprendizado rápido** me tornam um candidato ideal para qualquer equipe.
+Atualmente, estou buscando **Busco oportunidades como Analista de Dados em empresas que valorizam a inovação e o uso estratégico de dados para impulsionar o crescimento.** Onde eu possa utilizar minhas habilidades e conhecimentos para **agregar valor a empresas e organizações**. Acredito que minha **versatilidade, meu entusiasmo e minha capacidade de aprendizado rápido** me tornam um candidato ideal para qualquer equipe.
 
 **Para saber mais:**
 
