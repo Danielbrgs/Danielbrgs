@@ -17,5 +17,5 @@
 
 **More information:**
 
-* LinkedIn: [https://www.linkedin.com/in/daniel-braga-reis-725aa012a/](https://www.linkedin.com/in/daniel-braga-reis-725aa012a/)
-* GitHub: [https://github.com/Danielbrgs?tab=repositories](https://github.com/Danielbrgs?tab=repositories)
+* [LinkedIn](https://www.linkedin.com/in/daniel-braga-reis-725aa012a/)
+* [GitHub](https://github.com/Danielbrgs?tab=repositories)
